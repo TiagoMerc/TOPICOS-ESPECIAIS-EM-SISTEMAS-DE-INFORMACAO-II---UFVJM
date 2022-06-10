@@ -11,4 +11,6 @@ parágrafos, tabelas, formulários, listas, cabeçalhos.
 Individual
 Postagem no Classroom
 
-[Acessem]()
+_________
+
+[Acessem a atividade pelo GitHub Pages](https://tiagomerc.github.io/TOPICOS-ESPECIAIS-EM-SISTEMAS-DE-INFORMACAO-II---UFVJM/)
